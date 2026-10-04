@@ -36,3 +36,6 @@ Cette application web est une plateforme "full-stack" qui affiche une liste d'at
 2.  Installez les dépendances : `npm install`
 3.  Lancez l'application : `npm start`
 4.  Le navigateur s'ouvrira sur http://localhost:3000.
+
+### **Étape 4 : Amelioration**
+L'application n'est pas encore parfaite. Dans l'avenir je prevoie de bien nettoyer les donnees csv, modifier l'interface de l'application pour ne pas que l'utilisateur tombe directemennt sur les archives, peut etre ajouter des onglets, une sections quiz pour que l'utilisateur s'amuse un peu. C'est un projet que je compte poursuivre car pendant l'ete j'ai obtenue une cerfication en analyse de donnees ce qui m'a permis d'avoir des competences dans ce domaine. Je compte donc combiner les connaissances que j'aurait dans ce cours et en analyse de donnees pour en extraire une belle experience.
