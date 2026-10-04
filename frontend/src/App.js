@@ -2,7 +2,7 @@ import React from "react";
 import AthleteList from "./components/AthleteList";
 import './App.css'; 
 import "bulma/css/bulma.css";
-
+/* Code écrit par moi : 60% */
 function App() {
   return (
     <div>
