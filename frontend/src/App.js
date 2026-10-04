@@ -1,12 +1,19 @@
 import React from "react";
-import './App.css';
 import AthleteList from "./components/AthleteList";
+import './App.css'; 
 import "bulma/css/bulma.css";
 
-// Code écrit par moi : 85%
 function App() {
   return (
     <div>
+      <h1 
+        className="title has-text-centered mt-4" 
+        onClick={() => window.location.reload()} 
+        style={{ cursor: "pointer" }}
+      >
+        Bienvenue
+      </h1>
+      
       <AthleteList />
     </div>
   );
